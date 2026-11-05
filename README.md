@@ -77,15 +77,6 @@ A recommendation application designed to suggest movies based on user preference
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/artsaikat/artsaikat/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-</p>
-
-> To activate this animation, configure a GitHub Actions workflow that generates the snake SVG and publishes it to the `output` branch. The image will not appear until that setup is complete.
-
----
 
 ## 🎯 Currently Exploring
 
