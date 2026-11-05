@@ -44,18 +44,29 @@ I'm an aspiring Data Scientist and AI Engineer, currently pursuing an M.Sc. in D
 ---
 
 
-## 📊 GitHub Statistics
+
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=artsaikat&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artsaikat&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=artsaikat&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics"
+    height="180"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=artsaikat&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Programming Languages"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=artsaikat&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=artsaikat&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
----
 
 
 ## 🤝 Connect With Me
