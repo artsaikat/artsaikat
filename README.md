@@ -64,16 +64,11 @@ I'm an aspiring Data Scientist and AI Engineer, currently pursuing an M.Sc. in D
   <a href="https://github.com/artsaikat">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/maitisaikat/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <p align="center">
   <i>“Turning data into insights, and ideas into intelligent solutions.”</i>
-</p>
-
-<p align="center">
-  ⭐ If you find my projects interesting, feel free to explore my repositories and connect!
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" alt="Footer banner" />
 </p>
