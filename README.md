@@ -24,6 +24,7 @@ I'm an aspiring Data Scientist and AI Engineer, currently pursuing an M.Sc. in D
 - 🌱 I'm currently learning **LangGraph, Multi-Agent Systems, Advanced RAG, LLM Evaluation, and MLOps**.
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, NLP, LangChain, LangGraph, RAG, and AI Agents**.
 - ⚡ Fun fact: **I love transforming complex ideas into practical AI-powered solutions!**
+- 📫 How to reach me: saikatmaitiart03@gmail.com
 
 ---
 
