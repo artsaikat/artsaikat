@@ -16,12 +16,14 @@
 
 ## 🚀 About Me
 
-- 🎓 Passionate about Data Science, Machine Learning, and Artificial Intelligence.
-- 🐍 Love building projects using Python and exploring real-world datasets.
-- 🤖 Exploring Deep Learning, predictive analytics, and intelligent applications.
-- 📊 Interested in statistics, data visualization, and forecasting.
-- 💡 Always learning new technologies and developing practical AI solutions.
-- 🤝 Open to collaborating on interesting Machine Learning and AI projects.
+I'm an aspiring Data Scientist and AI Engineer, currently pursuing an M.Sc. in Data Science & AI, with an academic background in Statistics. I'm passionate about building intelligent applications that combine machine learning, deep learning, and modern AI technologies.
+
+- 🔭 I'm currently working on **Agentic AI, RAG systems, and advanced Machine Learning projects**.
+- 🤝 I'm looking to collaborate on **Generative AI, LLM applications, NLP, and open-source AI projects**.
+- 🙌 I'm looking for help with **building scalable AI applications and exploring advanced Agentic AI architectures**.
+- 🌱 I'm currently learning **LangGraph, Multi-Agent Systems, Advanced RAG, LLM Evaluation, and MLOps**.
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, NLP, LangChain, LangGraph, RAG, and AI Agents**.
+- ⚡ Fun fact: **I love transforming complex ideas into practical AI-powered solutions!**
 
 ---
 
@@ -41,28 +43,6 @@
 
 ---
 
-## 💻 Featured Projects
-
-### 🎵 Emotion-Based Music Recommendation
-An AI application that analyzes facial emotions and recommends music based on the predicted emotion.
-
-**Tech:** Python · TensorFlow · OpenCV · Streamlit
-
-### 🖼️ Image Captioning
-A Deep Learning project that generates natural-language captions for images using computer vision and natural-language processing.
-
-**Tech:** Python · Deep Learning · CNN · NLP
-
-### 🎬 Movie Recommendation System
-A recommendation application designed to suggest movies based on user preferences and similarity between movies.
-
-**Tech:** Python · Pandas · Machine Learning
-
-> 📌 Add links to the individual repositories above once you confirm their exact names.
-
-[🔗 Explore all my repositories](https://github.com/artsaikat?tab=repositories)
-
----
 
 ## 📊 GitHub Statistics
 
@@ -77,16 +57,6 @@ A recommendation application designed to suggest movies based on user preference
 
 ---
 
-
-## 🎯 Currently Exploring
-
-- 🌱 Advanced Machine Learning and Deep Learning
-- 🧠 Neural Networks and Computer Vision
-- 📈 Predictive Analytics and Forecasting
-- ⚙️ Deploying ML models with FastAPI and Streamlit
-- ☁️ Docker and practical model deployment
-
----
 
 ## 🤝 Connect With Me
 
