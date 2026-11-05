@@ -53,11 +53,6 @@ I'm an aspiring Data Scientist and AI Engineer, currently pursuing an M.Sc. in D
     alt="GitHub Statistics"
     height="180"
   />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=artsaikat&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Programming Languages"
-    height="180"
-  />
 </p>
 
 <p align="center">
